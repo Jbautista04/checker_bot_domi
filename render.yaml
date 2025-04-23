@@ -7,4 +7,4 @@ services:
     plan: free
     envVars:
       - key: BOT_TOKEN
-        value: AQUI_TU_TOKEN
+        value: 7729657771:AAFayfD_M5hmTINJWql0-w5m7hnZ51qnXJg
