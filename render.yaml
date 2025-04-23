@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: checker-bot-rd
+    runtime: python
+    buildCommand: ""
+    startCommand: python bot.py
+    plan: free
+    envVars:
+      - key: BOT_TOKEN
+        value: AQUI_TU_TOKEN
